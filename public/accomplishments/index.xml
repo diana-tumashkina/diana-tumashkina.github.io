@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accomplishments | Диана</title>
+    <link>/accomplishments/</link>
+      <atom:link href="/accomplishments/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accomplishments</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Accomplishments</title>
+      <link>/accomplishments/</link>
+    </image>
+    
+    <item>
+      <title>Data Analyst in Python</title>
+      <link>/accomplishments/internal-project/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/internal-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course includes:&lt;/strong&gt;
+Numpy, Pandas.
+SQL.
+API.
+Web Scraping.
+Command Line.
+Statistics.
+Git.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt; 15 projects were done during this cours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; DataQuest.io&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dataquest.io&#34;&gt;
+  Organization
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Credential
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bloomberg Market Concepts</title>
+      <link>/accomplishments/internal-project2/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/internal-project2/</guid>
+      <description>&lt;p&gt;Basic Bloomberg Market Concepts given by Bloomberg for Education. Utilisation of Bloomberg terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Bloomberg LP&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/company/&#34;&gt;
+  Organization
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

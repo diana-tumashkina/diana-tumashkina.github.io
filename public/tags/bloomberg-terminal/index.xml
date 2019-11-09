@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bloomberg terminal | Диана</title>
+    <link>/tags/bloomberg-terminal/</link>
+      <atom:link href="/tags/bloomberg-terminal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bloomberg terminal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bloomberg terminal</title>
+      <link>/tags/bloomberg-terminal/</link>
+    </image>
+    
+    <item>
+      <title>Bloomberg Market Concepts</title>
+      <link>/accomplishments/internal-project2/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/internal-project2/</guid>
+      <description>&lt;p&gt;Basic Bloomberg Market Concepts given by Bloomberg for Education. Utilisation of Bloomberg terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Bloomberg LP&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/company/&#34;&gt;
+  Organization
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

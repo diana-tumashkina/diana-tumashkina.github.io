@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project — копияs | Диана</title>
+    <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <atom:link href="/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project — копияs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Project — копияs</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+    </image>
+    
+    <item>
+      <title>Data Anaysis in Python</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-4/</guid>
+      <description>&lt;p&gt;blabla&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Semi-synchronous Point Process of the Second Order</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project/</guid>
+      <description>&lt;p&gt;In this research project, semi-synchronous event flow of the second order was investigated. It is one of the doubly stochastic event flows (point process). This point process was considered under conditions of its complete and uncomplete observability. The following problems were solved: states estimation of the event flow and flow parameters estimation. The explicit analytical formulas were derived.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calibration of the Financial Model Based on Market Data (S&amp;P 500)</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-3/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-3/</guid>
+      <description>&lt;p&gt;The goal of this project was to calibrate financial models applying numerical methods. Using the set of market data (S&amp;amp;P 500), the implied volatility (volatility smile) was calibrated in the Black Scholes model. The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markov Chains in Finance</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-2/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-2/</guid>
+      <description>&lt;p&gt;In this project, the binomial and trinomial asset pricing models were investigated. The calibration of the model parameters was done by different methods, in particular Cox-Ross-Rubinstein, Jarrow-Rudd, Desmond John Higham. One application of these models is the evaluation of options and obligations. Two methods to price options were implemented: Monte-Carlo Markov Chain method and another method that is implemented by Dynamic Programming. The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

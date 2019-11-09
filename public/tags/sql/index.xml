@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL | Диана</title>
+    <link>/tags/sql/</link>
+      <atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <description>SQL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>SQL</title>
+      <link>/tags/sql/</link>
+    </image>
+    
+    <item>
+      <title>Data Anaysis in Python</title>
+      <link>/project/internal-project-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Profitable App Profiles For &lt;em&gt;The App Store&lt;/em&gt; And &lt;em&gt;Google Play Markets&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project the data of a company that builds Android and iOS mobile apps is under consideration. The company makes the apps available on Google Play and the App Store and only builds apps that are free to download and install; and the main source of revenue consists of in-app ads. This means that comnany&amp;rsquo;s revenue for any given app is mostly influenced by the number of users who use the app — the more users that see and engage with the ads, the better. Therefore the goal of this project is to analyze data to help company&amp;rsquo;s developers understand what type of apps are likely to attract more users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Exploring &lt;em&gt;Hacker News Posts&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project, the work with a data set of submissions to popular technology site Hacker News is under consideration. Hacker News is a site, where user-submitted stories (known as &amp;ldquo;posts&amp;rdquo;) are voted and commented upon. Hacker News is very popular in technology and startup circles, and posts that make it to the top of Hacker News&amp;rsquo; listings can get hundreds of thousands of visitors as a result.&lt;/p&gt;
+
+&lt;p&gt;The posts whose titles begin with Ask HN or Show HN are specifically interesting in this project. Users submit Ask HN posts to ask the Hacker News community a question; users submit Show HN posts to show the Hacker News community a project, product, something interesting.&lt;/p&gt;
+
+&lt;p&gt;The main goal of this project is to answer the following questions:
+Do Ask HN or Show HN receive more comments on average?
+Do posts created at a certain time receive more comments on average?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Exploring &lt;em&gt;Ebay Car&lt;/em&gt; Sales Data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to clean the data and analyze the included used car listings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Visualizing Earnings Based On College Majors.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The dataset on the job outcomes of students who graduated from college between 2010 and 2012 is under consideration in this project. Using visualizations (scatter plots, histograms, bar plots), the following questions from the dataset was explored:
+Do students in more popular majors make more money?
+How many majors are predominantly male? Predominantly female?
+Which category of majors have the most students?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Visualizing The Gender Gap In College Degrees.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Analyzing NYC High School Data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Star Wars Survey.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. Clean And Analyze Employee Exit Surveys.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project, exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland,&lt;/p&gt;
+
+&lt;p&gt;Australia is under consideration. The following was explored:
+Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+Are younger employees resigning due to some kind of dissatisfaction? What about older employees?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9. Analyzing CIA Factbook Data Using &lt;em&gt;SQLite&lt;/em&gt; and Python.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10. Answering Business Questions using &lt;em&gt;SQL&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11. Designing and Creating a &lt;em&gt;Database&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;12. Finding the Best Markets to Advertise In.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project some e-learning company that offers courses on programming is considered. Most of the courses of the company are on web and mobile development, but they also cover many other domains, like data science, game development, etc. The company want to promote our product and  to invest some money in advertisement. The goal of this project is to find out the two best markets to advertise the company product in.&lt;/p&gt;
+
+&lt;p&gt;To avoid spending money on organizing a survey, the first what is necessary to try is to make use of existing data to determine whether the company can reach any reliable result. One good candidate for the purpose is freeCodeCamp&amp;rsquo;s 2017 New Coder Survey. freeCodeCamp is a free e-learning platform that offers courses on web development. Because they run a popular Medium publication (over 400,000 followers), their survey attracted new coders with varying interests (not only web development), which is ideal for the purpose of the analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13. Investigating &lt;em&gt;Fandango&lt;/em&gt; Movie Ratings.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango&amp;rsquo;s rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that&amp;rsquo;s totally worth reading.&lt;/p&gt;
+
+&lt;p&gt;Fandango displays a 5-star rating system on their website, where the minimum rating is 0 stars and the maximum is 5 stars.
+imgSource: Fandango Hickey found that there&amp;rsquo;s a significant discrepancy between the number of stars displayed to users and the actual rating, which he was able to find in the HTML of the page. He was able to find that:&lt;/p&gt;
+
+&lt;p&gt;The actual rating was almost always rounded up to the nearest half-star. For instance, a 4.1 movie would be rounded off to 4.5 stars, not to 4 stars, as you may expect. In the case of 8% of the ratings analyzed, the rounding up was done to the nearest whole star. For instance, a 4.5 rating would be rounded off to 5 stars. For one movie rating, the rounding off was completely bizarre: from a rating of 4 in the HTML of the page to a displayed rating of 5 stars. imgSource: FiveThirtyEight The two distributions above are displayed using a simple line plot, which is also a valid way to show the shape of a distribution. The variable being examined is movie rating, and for each unique rating we can see its relative frequency (percentage) on the y-axis of the graph. When an analysis report is intended for large audiences, relative frequencies (especially percentages) are preferred over absolute frequencies.&lt;/p&gt;
+
+&lt;p&gt;Both distributions above are strongly left skewed, suggesting that movie ratings on Fandango are generally high or very high. We can see there&amp;rsquo;s no rating under 2 stars in the sample Hickey analyzed. The distribution of displayed ratings is clearly shifted to the right compared to the actual rating distribution, suggesting strongly that Fandango inflates the ratings under the hood.&lt;/p&gt;
+
+&lt;p&gt;Fandango&amp;rsquo;s officials replied that the biased rounding off was caused by a bug in their system rather than being intentional, and they promised to fix the bug as soon as possible. Presumably, this has already happened, although we can&amp;rsquo;t tell for sure since the actual rating value doesn&amp;rsquo;t seem to be displayed anymore in the pages&amp;rsquo; HTML.&lt;/p&gt;
+
+&lt;p&gt;In this project, the analysis of more recent movie ratings data is presented to determine whether there has been any change in Fandango&amp;rsquo;s rating system after Hickey&amp;rsquo;s analysis. One of the best ways to figure out whether there has been any change in Fandango&amp;rsquo;s rating system after Hickey&amp;rsquo;s analysis is to compare the system&amp;rsquo;s characteristics previous and after the analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;14. Mobile App for Lottery Addiction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Many people start playing the lottery for fun, but for some this activity turns into a habit which eventually escalates into addiction. Like other compulsive gamblers, lottery addicts soon begin spending from their savings and loans, they start to accumulate debts, and eventually engage in desperate behaviors like theft.&lt;/p&gt;
+
+&lt;p&gt;A medical institute that aims to prevent and treat gambling addictions wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning. The institute has a team of engineers that will build the app, but they need to create the logical core of the app and calculate probabilities.&lt;/p&gt;
+
+&lt;p&gt;For the first version of the app, they want to focus on the &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; lottery and build functions that enable users to answer questions like:
+What is the probability of winning the big prize with a single ticket? What is the probability of winning the big prize if we play 40 different tickets (or any other number)? What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket? The institute also wants also to consider historical data coming from the national &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; lottery game in Canada.&lt;/p&gt;
+
+&lt;p&gt;These questions is under consideration in this project. The data set has data for 3,665 drawings, dating from 1982 to 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;15. Winning Jeopardy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jeopardy is a popular TV show in the US where participants answer questions to win money. It&amp;rsquo;s been running for a few decades, and is a major force in popular culture. Let&amp;rsquo;s say you want to compete on Jeopardy, and you&amp;rsquo;re looking for any edge you can get to win.&lt;/p&gt;
+
+&lt;p&gt;In this project, the work with a dataset of Jeopardy questions is done to figure out some patterns in the questions that could help you win.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
