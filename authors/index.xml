@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Диана</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Interested in Data Analysis, Analytics and Data Science, I am currently a last year master student in the EISTI Master&amp;rsquo;s program &amp;ldquo;Quantitative Finance and Risk Management&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I graduated from the Institute of Applied Mathematics and Cybernetics, I have a master’s degree in &amp;ldquo;Applied Mathematics and Computer Science&amp;rdquo; and a bachelor&amp;rsquo;s degree in &amp;ldquo;Mathematical Methods in Economics&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;For 5 years I was engaged in mathematical research, as a result of which I have 12 scientific publications in areas of applied probabilistic analysis and queueing theory (3 of them are indexed in Scopus and 1 in Web of Science).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

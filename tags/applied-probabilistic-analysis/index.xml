@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Probabilistic Analysis | Диана</title>
+    <link>/tags/applied-probabilistic-analysis/</link>
+      <atom:link href="/tags/applied-probabilistic-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Probabilistic Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Applied Probabilistic Analysis</title>
+      <link>/tags/applied-probabilistic-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Investigation of Semi-synchronous Point Process of the Second Order</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Mathematical research in the fields of applied probabilistic analysis and queuing theory. In this research project, semi-synchronous event flow of the second order was investigated. It is one of the doubly stochastic event flows (point process). These point processes are adequate mathematical models for an incoming stream of claims (events) in modern digital integral servicing networks, telecommunication systems and satellite communication networks. The point process under consideration was considered under conditions of its complete and uncomplete observability. The following problems were solved for this stochastic process: states estimation of the process and process parameters estimation. The explicit analytical formulas were derived.&lt;/p&gt;
+
+&lt;p&gt;The mathematical model of the Semi-synchronous Point Process of the Second Order and the obtained results are given in 12 scientific publications. 3 of them are indexed in Scopus, 1 in Web of Science.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

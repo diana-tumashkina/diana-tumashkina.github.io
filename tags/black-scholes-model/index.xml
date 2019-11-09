@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black-Scholes Model | Диана</title>
+    <link>/tags/black-scholes-model/</link>
+      <atom:link href="/tags/black-scholes-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Black-Scholes Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Black-Scholes Model</title>
+      <link>/tags/black-scholes-model/</link>
+    </image>
+    
+    <item>
+      <title>Calibration of the Financial Model Based on Market Data (S&amp;P 500)</title>
+      <link>/project/internal-project-3/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-3/</guid>
+      <description>&lt;p&gt;The goal of this project was to calibrate financial models applying numerical methods. Using the set of market data (S&amp;amp;P 500; dataset contains 280 strike values for different maturities), the implied volatility (volatility smile) was calibrated in the Black-Scholes model for call and out Europian Options. The algorithm of Newton was used to calibrate implied volatility. The existence and unicity of the solution was investigated mathematically. Besides that Vega of un option was investigated.&lt;/p&gt;
+
+&lt;p&gt;As an additional practical problem an implied volatility for call options traded on the London Internetional Financial
+Futures and Option Exchange (LIFFE, as reported in the Financial Times on Wednesday, 22 Audust
+2001) was calibrated. The data is for the FTSE 100 index, which is an average of 100 shares quoted on the London
+Stock Exchange.&lt;/p&gt;
+
+&lt;p&gt;The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markov Chains in Finance</title>
+      <link>/project/internal-project-2/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-2/</guid>
+      <description>&lt;p&gt;In this project, the binomial and trinomial asset pricing models were investigated. The calibration of the model parameters was done by different methods, in particular Cox-Ross-Rubinstein, Jarrow-Rudd, Desmond John Higham. One application of these models is the evaluation of options and obligations.&lt;/p&gt;
+
+&lt;p&gt;Several methods exist to price options and one of them is Monte-Carlo Markov Chain method (MCMC), typically used for pricing path-dependent options. Monte-Carlo Markov chain algorithm is used to simulate from complex statistical distributions by way of a local exploration of these distributions. This local feature avoids heavy requests on understanding the nature of the target, but it also potentially induces a lengthy exploration of this target, with a requirement on the number of simulations that grows with the dimension of the problem and with the complexity of the data behind it.&lt;/p&gt;
+
+&lt;p&gt;That is why we also investigate another method to price the option that is implemented by Dynamic Programming, which is iterative and more rapid.&lt;/p&gt;
+
+&lt;p&gt;Beside that the greeks (Delta, Gamma, Vega) for some options were investigated.&lt;/p&gt;
+
+&lt;p&gt;The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

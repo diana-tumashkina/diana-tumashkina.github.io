@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Диана</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Диана</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Диана</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of the Probability Density Parameters of the Interval Duration Between Events in Correlated Semi-synchronous Event Flow of the Second Order by the Method of Moments</title>
+      <link>/publication/ind11/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ind11/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We consider a correlated semi-synchronous event flow of the second order with two states; it is one of the mathematical models for an incoming stream of claims (events) in modern digital integral servicing networks, telecommunication systems and satellite communication networks. We solve the problem of estimating the probability density parameters of the values of the interval duration between the moments of the events occurrence by the method of moments for general and special cases of setting the flow parameters. The results of statistical experiments performed on a flow simulation model are given.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; SCOPUS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Springer. Communications in Computer and Information Science&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-33388-1_6&#34;&gt;
+  Paper&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation by the method of moments of the probability density parameters of the duration of the interval between events of a recurrent semi-synchronous event flow of the second order in a special case</title>
+      <link>/publication/ind12/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ind12/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Оценивание методом моментов параметров плотности вероятности длительности интервала между событиями рекуррентного полусинхронного потока второго порядка в особом случаe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В настоящее время при описании и анализе реальных экономических, технических, физических и других процессов и систем часто возникает необходимость применять математический аппарат теории массового обслуживания (ТМО). В связи с бурным развитием информационных технологий важнейшими сферами приложений ТМО являются проектирование и создание цифровых сетей интегрального обслуживания (ЦСИО). Адекватными математическими моделями информационных потоков сообщений, функционирующих в ЦСИО, являются  дважды стохастические потоки событий. В данных потоках событий случайны не только моменты наступления событий, но и интенсивность потока представляет собой случайный процесс, т.е. имеет место двойная стохастика, что и приводит к изучению дважды стохастических потоков событий.
+Однако условия функционирования реальных процессов и систем таковы, что параметры входящих потоков являются ненаблюдаемыми, наблюдаются лишь моменты наступления событий потока. Поэтому существенный интерес представляет решение задач оценки состояний и параметров дважды стохастического потока по наблюдениям за моментами наступления событий.
+В данной работе рассматривается дважды стохастический поток событий с числом состояний, равным двум. Объектом исследования настоящей работы является полусинхронный поток событий второго порядка. В настоящей работе для особого случая задания параметров полусинхронного потока второго порядка приводится явный вид плотности вероятности значений длительности интервала между моментами наступления событий потока, а также находится явный вид совместной плотности вероятности значений длительностей смежных интервалов. Находятся условия рекуррентности потока в рассматриваемом случае. Для рекуррентного потока методом моментов решается задача оценивания параметров плотности распределения.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Proceedings of Tomsk State University. A series of physical and mathematical.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000668711&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://csi.tsu.ru/en/node/350/&#34;&gt;
+  Conference&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Anaysis in Python</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-4/</guid>
+      <description>&lt;p&gt;blabla&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Anaysis in Python</title>
+      <link>/project/internal-project-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Profitable App Profiles For &lt;em&gt;The App Store&lt;/em&gt; And &lt;em&gt;Google Play Markets&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project the data of a company that builds Android and iOS mobile apps is under consideration. The company makes the apps available on Google Play and the App Store and only builds apps that are free to download and install; and the main source of revenue consists of in-app ads. This means that comnany&amp;rsquo;s revenue for any given app is mostly influenced by the number of users who use the app — the more users that see and engage with the ads, the better. Therefore the goal of this project is to analyze data to help company&amp;rsquo;s developers understand what type of apps are likely to attract more users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Exploring &lt;em&gt;Hacker News Posts&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project, the work with a data set of submissions to popular technology site Hacker News is under consideration. Hacker News is a site, where user-submitted stories (known as &amp;ldquo;posts&amp;rdquo;) are voted and commented upon. Hacker News is very popular in technology and startup circles, and posts that make it to the top of Hacker News&amp;rsquo; listings can get hundreds of thousands of visitors as a result.&lt;/p&gt;
+
+&lt;p&gt;The posts whose titles begin with Ask HN or Show HN are specifically interesting in this project. Users submit Ask HN posts to ask the Hacker News community a question; users submit Show HN posts to show the Hacker News community a project, product, something interesting.&lt;/p&gt;
+
+&lt;p&gt;The main goal of this project is to answer the following questions:
+Do Ask HN or Show HN receive more comments on average?
+Do posts created at a certain time receive more comments on average?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Exploring &lt;em&gt;Ebay Car&lt;/em&gt; Sales Data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of this project is to clean the data and analyze the included used car listings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Visualizing Earnings Based On College Majors.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The dataset on the job outcomes of students who graduated from college between 2010 and 2012 is under consideration in this project. Using visualizations (scatter plots, histograms, bar plots), the following questions from the dataset was explored:
+Do students in more popular majors make more money?
+How many majors are predominantly male? Predominantly female?
+Which category of majors have the most students?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Visualizing The Gender Gap In College Degrees.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Analyzing NYC High School Data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Star Wars Survey.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. Clean And Analyze Employee Exit Surveys.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project, exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland,&lt;/p&gt;
+
+&lt;p&gt;Australia is under consideration. The following was explored:
+Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+Are younger employees resigning due to some kind of dissatisfaction? What about older employees?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9. Analyzing CIA Factbook Data Using &lt;em&gt;SQLite&lt;/em&gt; and Python.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10. Answering Business Questions using &lt;em&gt;SQL&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11. Designing and Creating a &lt;em&gt;Database&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;12. Finding the Best Markets to Advertise In.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this project some e-learning company that offers courses on programming is considered. Most of the courses of the company are on web and mobile development, but they also cover many other domains, like data science, game development, etc. The company want to promote our product and  to invest some money in advertisement. The goal of this project is to find out the two best markets to advertise the company product in.&lt;/p&gt;
+
+&lt;p&gt;To avoid spending money on organizing a survey, the first what is necessary to try is to make use of existing data to determine whether the company can reach any reliable result. One good candidate for the purpose is freeCodeCamp&amp;rsquo;s 2017 New Coder Survey. freeCodeCamp is a free e-learning platform that offers courses on web development. Because they run a popular Medium publication (over 400,000 followers), their survey attracted new coders with varying interests (not only web development), which is ideal for the purpose of the analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13. Investigating &lt;em&gt;Fandango&lt;/em&gt; Movie Ratings.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango&amp;rsquo;s rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that&amp;rsquo;s totally worth reading.&lt;/p&gt;
+
+&lt;p&gt;Fandango displays a 5-star rating system on their website, where the minimum rating is 0 stars and the maximum is 5 stars.
+imgSource: Fandango Hickey found that there&amp;rsquo;s a significant discrepancy between the number of stars displayed to users and the actual rating, which he was able to find in the HTML of the page. He was able to find that:&lt;/p&gt;
+
+&lt;p&gt;The actual rating was almost always rounded up to the nearest half-star. For instance, a 4.1 movie would be rounded off to 4.5 stars, not to 4 stars, as you may expect. In the case of 8% of the ratings analyzed, the rounding up was done to the nearest whole star. For instance, a 4.5 rating would be rounded off to 5 stars. For one movie rating, the rounding off was completely bizarre: from a rating of 4 in the HTML of the page to a displayed rating of 5 stars. imgSource: FiveThirtyEight The two distributions above are displayed using a simple line plot, which is also a valid way to show the shape of a distribution. The variable being examined is movie rating, and for each unique rating we can see its relative frequency (percentage) on the y-axis of the graph. When an analysis report is intended for large audiences, relative frequencies (especially percentages) are preferred over absolute frequencies.&lt;/p&gt;
+
+&lt;p&gt;Both distributions above are strongly left skewed, suggesting that movie ratings on Fandango are generally high or very high. We can see there&amp;rsquo;s no rating under 2 stars in the sample Hickey analyzed. The distribution of displayed ratings is clearly shifted to the right compared to the actual rating distribution, suggesting strongly that Fandango inflates the ratings under the hood.&lt;/p&gt;
+
+&lt;p&gt;Fandango&amp;rsquo;s officials replied that the biased rounding off was caused by a bug in their system rather than being intentional, and they promised to fix the bug as soon as possible. Presumably, this has already happened, although we can&amp;rsquo;t tell for sure since the actual rating value doesn&amp;rsquo;t seem to be displayed anymore in the pages&amp;rsquo; HTML.&lt;/p&gt;
+
+&lt;p&gt;In this project, the analysis of more recent movie ratings data is presented to determine whether there has been any change in Fandango&amp;rsquo;s rating system after Hickey&amp;rsquo;s analysis. One of the best ways to figure out whether there has been any change in Fandango&amp;rsquo;s rating system after Hickey&amp;rsquo;s analysis is to compare the system&amp;rsquo;s characteristics previous and after the analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;14. Mobile App for Lottery Addiction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Many people start playing the lottery for fun, but for some this activity turns into a habit which eventually escalates into addiction. Like other compulsive gamblers, lottery addicts soon begin spending from their savings and loans, they start to accumulate debts, and eventually engage in desperate behaviors like theft.&lt;/p&gt;
+
+&lt;p&gt;A medical institute that aims to prevent and treat gambling addictions wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning. The institute has a team of engineers that will build the app, but they need to create the logical core of the app and calculate probabilities.&lt;/p&gt;
+
+&lt;p&gt;For the first version of the app, they want to focus on the &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; lottery and build functions that enable users to answer questions like:
+What is the probability of winning the big prize with a single ticket? What is the probability of winning the big prize if we play 40 different tickets (or any other number)? What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket? The institute also wants also to consider historical data coming from the national &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;49&lt;/sub&gt; lottery game in Canada.&lt;/p&gt;
+
+&lt;p&gt;These questions is under consideration in this project. The data set has data for 3,665 drawings, dating from 1982 to 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;15. Winning Jeopardy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jeopardy is a popular TV show in the US where participants answer questions to win money. It&amp;rsquo;s been running for a few decades, and is a major force in popular culture. Let&amp;rsquo;s say you want to compete on Jeopardy, and you&amp;rsquo;re looking for any edge you can get to win.&lt;/p&gt;
+
+&lt;p&gt;In this project, the work with a dataset of Jeopardy questions is done to figure out some patterns in the questions that could help you win.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Semi-synchronous Point Process of the Second Order</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project/</guid>
+      <description>&lt;p&gt;In this research project, semi-synchronous event flow of the second order was investigated. It is one of the doubly stochastic event flows (point process). This point process was considered under conditions of its complete and uncomplete observability. The following problems were solved: states estimation of the event flow and flow parameters estimation. The explicit analytical formulas were derived.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Semi-synchronous Point Process of the Second Order</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Mathematical research in the fields of applied probabilistic analysis and queuing theory. In this research project, semi-synchronous event flow of the second order was investigated. It is one of the doubly stochastic event flows (point process). These point processes are adequate mathematical models for an incoming stream of claims (events) in modern digital integral servicing networks, telecommunication systems and satellite communication networks. The point process under consideration was considered under conditions of its complete and uncomplete observability. The following problems were solved for this stochastic process: states estimation of the process and process parameters estimation. The explicit analytical formulas were derived.&lt;/p&gt;
+
+&lt;p&gt;The mathematical model of the Semi-synchronous Point Process of the Second Order and the obtained results are given in 12 scientific publications. 3 of them are indexed in Scopus, 1 in Web of Science.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of the Estimates of the Probability Density Parameters in Correlated Semi-synchronous Event Flow of the Second Order</title>
+      <link>/publication/ind2/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ind2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We consider a correlated semi-synchronous event ﬂow of the second order with two states; it is one of the mathematical models for an incoming stream of claims (events) in modern digital integral servicing networks, telecommunication systems and satellite communication networks. We solve the problem of estimating the probability density parameters of the values of the interval duration between the moments of the events occurrence by the method of moments for general and special cases of setting the ﬂow parameters. The results of statistical experiment performed on a ﬂow simulation model are given.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Distributed computer and communication networks : control, computation, communications. - Moscow: RUDN&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1bpE945sDIUnBgHCbO2ZVT79ckqzf4Cxk/view&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://2019.dccn.ru/&#34;&gt;
+  Conference
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Analyst in Python</title>
+      <link>/accomplishments/internal-project/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/internal-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course includes:&lt;/strong&gt;
+Numpy, Pandas.
+SQL.
+API.
+Web Scraping.
+Command Line.
+Statistics.
+Git.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt; 15 projects were done during this cours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; DataQuest.io&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dataquest.io&#34;&gt;
+  Organization
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://app.dataquest.io/verify_cert/I9RX67UZ5L610XGEEF8L/&#34;&gt;
+  Credential
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calibration of the Financial Model Based on Market Data (S&amp;P 500)</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-3/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-3/</guid>
+      <description>&lt;p&gt;The goal of this project was to calibrate financial models applying numerical methods. Using the set of market data (S&amp;amp;P 500), the implied volatility (volatility smile) was calibrated in the Black Scholes model. The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calibration of the Financial Model Based on Market Data (S&amp;P 500)</title>
+      <link>/project/internal-project-3/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-3/</guid>
+      <description>&lt;p&gt;The goal of this project was to calibrate financial models applying numerical methods. Using the set of market data (S&amp;amp;P 500; dataset contains 280 strike values for different maturities), the implied volatility (volatility smile) was calibrated in the Black-Scholes model for call and out Europian Options. The algorithm of Newton was used to calibrate implied volatility. The existence and unicity of the solution was investigated mathematically. Besides that Vega of un option was investigated.&lt;/p&gt;
+
+&lt;p&gt;As an additional practical problem an implied volatility for call options traded on the London Internetional Financial
+Futures and Option Exchange (LIFFE, as reported in the Financial Times on Wednesday, 22 Audust
+2001) was calibrated. The data is for the FTSE 100 index, which is an average of 100 shares quoted on the London
+Stock Exchange.&lt;/p&gt;
+
+&lt;p&gt;The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markov Chains in Finance</title>
+      <link>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-2/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/internal-project-2/</guid>
+      <description>&lt;p&gt;In this project, the binomial and trinomial asset pricing models were investigated. The calibration of the model parameters was done by different methods, in particular Cox-Ross-Rubinstein, Jarrow-Rudd, Desmond John Higham. One application of these models is the evaluation of options and obligations. Two methods to price options were implemented: Monte-Carlo Markov Chain method and another method that is implemented by Dynamic Programming. The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+  Certificate
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markov Chains in Finance</title>
+      <link>/project/internal-project-2/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-2/</guid>
+      <description>&lt;p&gt;In this project, the binomial and trinomial asset pricing models were investigated. The calibration of the model parameters was done by different methods, in particular Cox-Ross-Rubinstein, Jarrow-Rudd, Desmond John Higham. One application of these models is the evaluation of options and obligations.&lt;/p&gt;
+
+&lt;p&gt;Several methods exist to price options and one of them is Monte-Carlo Markov Chain method (MCMC), typically used for pricing path-dependent options. Monte-Carlo Markov chain algorithm is used to simulate from complex statistical distributions by way of a local exploration of these distributions. This local feature avoids heavy requests on understanding the nature of the target, but it also potentially induces a lengthy exploration of this target, with a requirement on the number of simulations that grows with the dimension of the problem and with the complexity of the data behind it.&lt;/p&gt;
+
+&lt;p&gt;That is why we also investigate another method to price the option that is implemented by Dynamic Programming, which is iterative and more rapid.&lt;/p&gt;
+
+&lt;p&gt;Beside that the greeks (Delta, Gamma, Vega) for some options were investigated.&lt;/p&gt;
+
+&lt;p&gt;The project was implemented in Matlab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation of the probability density parameters for the duration of the interval between events in recurrent semi-synchronous event flow of the second order by the moment method</title>
+      <link>/publication/ind/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ind/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Оценка параметров плотности вероятности длительности интервала между событиями в рекуррентном полусинхронном потоке второго порядка методом моментов.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В настоящей работе рассматривается полусинхронный поток событий второго порядка. Приводится явный вид плотности вероятности значений длительности интервала между моментами наступления событий потока, явный вид совместной плотности вероятности значений длительностей смежных интервалов и выписываются условия рекуррентности. Для рекуррентного потока решается задача оценивания параметров плотности методом моментов.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Information technology and mathematical modeling ITMM-2019. - Tomsk: NTL Publishing House&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itmmconf.ru/sites/default/files/ITMM-2019_2.pdf&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itmmconf.ru/&#34;&gt;
+  Conference&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal state estimation of semi-synchronous event flow of the second order with non-extendable dead time</title>
+      <link>/publication/ind3/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ind3/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Оптимальное оценивание состояний полусинхронного потока событий второго порядка при непродлевающемся мертвом времени.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We solve the optimal estimation problem for the states of a semi-synchronous events flow of the second order. We consider the stationary operation mode of the flow in conditions of an unextendable dead time, i.e. after each registered event at the moment tk, there is a dead time period of fixed duration T, during which other events of the considered flow are inaccessible to observation. At the end of the dead time period, the first event that occurred again creates a period of dead time, etc. The optimal estimation of states is performed using the maximum method of a posteriori probability.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; SCOPUS, WEB OF SCIENCE&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Tomsk State University Journal of Control and Computer Science&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000651547&#34;&gt;
+  Paper&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bloomberg Market Concepts</title>
+      <link>/accomplishments/internal-project2/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/internal-project2/</guid>
+      <description>&lt;p&gt;Basic Bloomberg Market Concepts given by Bloomberg for Education. Utilisation of Bloomberg terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Bloomberg LP&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/company/&#34;&gt;
+  Organization
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal state estimation of semi-synchronous event flow of the second order under conditions of its full observability</title>
+      <link>/publication/ind4/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ind4/</guid>
+      <description>&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Оптимальная оценка состояний полусинхронного потока событий второго порядка в условиях его полной наблюдаемости.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Объектом изучения является полусинхронный поток событий второго порядка, представляющий интеграцию следующих типов потоков:
+синхронного потока, переход из состояния в состояние в котором связан с наступлением события, и асинхронного, переход из состояния в
+состояние в котором не зависит от наступления события. В настоящей
+работе предлагается алгоритм оптимального оценивания состояний
+рассматриваемого потока методом максимума апостериорной вероятности.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Information Technology and Mathematical Modeling ITMM-2018. - Tomsk: NTL Publishing House&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://itmmconf.tsu.ru/sites/default/files/ITMM_2018_Papers.pdf&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itmmconf.ru/itmm2018&#34;&gt;
+  Conference
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal state estimation of semi-synchronous event flow of the second order under its complete observability</title>
+      <link>/publication/ind5/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ind5/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We consider the optimal estimation problem for the states of a semi-synchronous event flow of the second order with two states; it is one of the adequate mathematical models for an incoming stream of claims (events) in modern digital integral servicing networks, telecommunication systems, satellite communication networks. We find an explicit form for posterior probabilities of the flow states. The decision about the flow state is made with the maximal a posteriori criterion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; SCOPUS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Springer. Communications in Computer and Information Science&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-97595-5_8&#34;&gt;
+  Paper&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posterior probabilities of the states of semi-synchronous event flow of the second order under conditions of incomplete observability</title>
+      <link>/publication/ind6/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ind6/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Апостериорные вероятности состояний полусинхронного потока событий второго порядка в условиях неполной наблюдаемости.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; New information technologies in the study of complex structures ICAM-2018: Publishing House of TSU&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000575018&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://icam.tsu.ru/&#34;&gt;
+  Conference&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical experiments on a simulation model of semi-synchronous event flow of the second order under conditions of incomplete observability</title>
+      <link>/publication/ind7/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ind7/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Статистические эксперименты на имитационной модели полусинхронного потока второго порядка в условиях его неполной наблюдаемости.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+В данной работе рассматривается дважды стохастический поток событий с числом состояний, равным двум. В зависимости от того, каким образом происходит переход из состояния в состояние, данные потоки событий можно разделить на три типа: 1) синхронные потоки, переход из состояния в состояние в которых зависит непосредственно от наступления события; 2) асинхронные потоки, переход из состояния в состояние в которых не зависит от того, наступило событие или нет; 3) полусинхронные потоки, у которых для одного состояния справедливо определение первого типа, а для второго состояния – второго типа. Объектом изучения настоящей работы является полусинхронный поток событий второго порядка. В большинстве случаев рассматриваются модели входящих потоков событий, когда события потока полностью наблюдаемы. Однако на практике любое регистрирующее устройство затрачивает определенное время на регистрацию события, в течение которого устройство не способно обработать следующее событие, т.е. событие, поступившее на прибор, порождает период так называемого мёртвого времени, в течение которого другие наступившие события потока являются недоступными для наблюдения (теряются). Будем считать, что этот период продолжается некоторое фиксированное время (непродлевающееся мёртвое время). В данной статье приводятся численные результаты ряда экспериментов, поставленных на разработанной имитационной модели потока в условиях его неполной наблюдаемости, и их анализ.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Proceedings of Tomsk State University. A series of physical and mathematical.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000648134?f1=sm_subject%3A%22%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5%D1%81%D1%8F+%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%22&amp;f0=sm_creator%3A%22%D0%9D%D0%B5%D0%B6%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C+%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0%22&amp;f3=sm_date%3A%222018%22&amp;f2=sm_type%3A%22%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8+%D0%B2+%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%22&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://csi.tsu.ru/en/node/350/&#34;&gt;
+  Conference&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal state estimation of semi-synchronous event flow of the second order</title>
+      <link>/publication/ind9/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ind9/</guid>
+      <description>&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Оптимальное оценивание состояний полусинхронного потока событий второго порядка.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Объектом изучения данной работы является полусинхронный поток событий второго порядка. Полусинхронный поток представляет собой симбиоз следующих типов потоков: синхронного потока, переход из состояния в состояние в котором зависит непосредственно от наступления события, и асинхронного, переход из состояния в состояние в котором не зависит от того, наступило событие или нет. Основными задачами при изучении дважды стохастических потоков событий являются следующие задачи, реализуемые по наблюдениям за моментами времени наступления событий: 1) оценка состояний потока событий; 2) оценка параметров потока. В данной работе находится оптимальная оценка состояний рассматриваемого потока по методу максимума апостериорной вероятности. Данный метод применяется в силу того, что апостериорная вероятность характеризуется тем, что обладает наиболее полной информацией об исследуемом потоке, содержащейся в выборке наблюдений, а также метод максимума апостериорной вероятности дает минимум полной вероятности ошибки принятия решения.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Proceedings of Tomsk State University. A series of physical and mathematical.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000619953&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fpmk.tsu.ru/node/2338&#34;&gt;
+  Conference
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical methods for economic calculations. Computational Workshop. Training Manual</title>
+      <link>/publication/ind8/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ind8/</guid>
+      <description>
+
+&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Численные методы для экономических расчетов. Вычислительный практикум: учебно-методическое пособие.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Необходимость численного решения задач возникает во всех сферах деятельности человека, и экономика в этом отношении не является исключением. Знание математических методов анализа финансовых операций требуется на этапе разработки условий контрактов, при финансовом проектировании, при сравнении и выборе долгосрочных инвестиционных контрактов, в страховании.
+Для решения этих задач необходимы знание численных методов, навыки программирования и работы в прикладных программных системах. Многообразие задач экономики обусловливает и множество методов их решения. При этом требуется найти наилучший в смысле некоторого критерия метод решения задачи, определить вычислительную погрешность, которая может существенно исказить полученное решение. Область применения численных методов в экономике последовательно расширяется: от вычислений параметров финансовых рент, потоков платежей до портфелей финансовых инвестиций и задолженностей.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Training Manual&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Tomsk: Publishing House of TSU&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=ru&amp;user=x5rNrDMAAAAJ#d=gs_md_cita-d&amp;u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Dru%26user%3Dx5rNrDMAAAAJ%26citation_for_view%3Dx5rNrDMAAAAJ%3Au5HHmVD_uO8C%26tzom%3D-60&#34;&gt;
+  Paper in pdf&lt;/p&gt;
+
+&lt;h2 id=&#34;a&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The simulation model of semi-synchronous event flow of the second order</title>
+      <link>/publication/ind10/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ind10/</guid>
+      <description>&lt;p&gt;In Russian.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original name:&lt;/strong&gt; Имитационная модель полусинхронного потока второго порядка.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;При анализе обходимость решать задачи массового обслуживания, которые рассмариваются в важнейшем из разделов математики — теории массового обслуживаня. Основной задачей теории массового обслуживания является установлени зависимости между вероятностными характеристиками, определяющими функциональные возможности системы массового обслуживания и эффективность ее функционирования. В свою очередь, случайные потоки событий являются основными элементами систем массового обслуживания и широко применяются в качестве различных моделей, описывающих реальные физические, технические и другие процессы. На практике довольно часто получается так, что параметры, определяющие случайные поток событий, неизвестны, либо изменяются со временем, причем данные изменения носят случайный характер. Таким образом, в наблюдаемом потоке событий случайны не только моменты наступления событий, но и интенсивность потока, т.е. имеется двойная стохастика. Это и приводит к изучению дважды стохастических потоков событий. В данной работе рассмотрен один из типов дважды стохастических потоков — полусинхронный поток событий второго порядка, а также его основные свойства.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Conference paper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication in&lt;/strong&gt; Proceedings of Tomsk State University. A series of physical and mathematical.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vital.lib.tsu.ru/vital/access/manager/Repository/vtls:000565781&#34;&gt;
+  Paper in pdf
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fpmk.tsu.ru/node/2251&#34;&gt;
+  Conference
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
